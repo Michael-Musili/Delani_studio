@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+    padding-top: 200px;
+    background-image: url(images/img1.jpg);
+    background-color: aquamarine;
+    height: 600px;
+
+}
+.aboutus{
+    text-align: center;
+    padding: 30px;
+}
+.services{
+    text-align: center;
+    padding: 80px;
+}
