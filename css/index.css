@@ -21,4 +21,23 @@
 .icons{
     display: flex;
     justify-content: space-evenly;
+    padding: 50px;
 }
+.prt h1{
+    padding: 20px;
+
+}
+.prt1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 110px;
+    padding-left: 90px;
+    padding-bottom: 20px;
+}
+.prt2{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 70px;
+    padding-right: 110px;
+}
+
