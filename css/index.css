@@ -1,8 +1,7 @@
 .header{
     text-align: center;
     padding-top: 200px;
-    background-image: url(images/img1.jpg);
-    background-color: aquamarine;
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/%20Delani%20Studio.jpg?raw=true);
     height: 600px;
 
 }
@@ -11,8 +10,10 @@
     padding: 30px;
 }
 .services{
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true);
     text-align: center;
     padding: 80px;
+    color: white;
 }
 .do{
     text-align: center;
@@ -42,10 +43,16 @@
 }
 #ender{
     text-align: center;
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/asets/backgrounds/c_image.jpg?raw=true);
 }
 .input1{
     padding: 10px;
 }
-.input2{
-    
+.accounts{
+    text-align: center;
+    padding: 30px;
+}
+.footer{
+    text-align: center;
+    padding: 30px;
 }
