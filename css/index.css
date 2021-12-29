@@ -7,7 +7,7 @@
 }
 .aboutus{
     text-align: center;
-    padding: 30px;
+    padding: 40px;
 }
 .services{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true);
@@ -43,16 +43,20 @@
 }
 #ender{
     text-align: center;
-    background-image: url(https://github.com/jonnygovish/IP3/blob/master/asets/backgrounds/c_image.jpg?raw=true);
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true);
+    height: 500px;
+    padding-top: 30px;
+    color: snow;
+
 }
 .input1{
     padding: 10px;
 }
 .accounts{
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 .footer{
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
