@@ -9,6 +9,9 @@
     text-align: center;
     padding: 40px;
 }
+.initially-showing{
+    display: none;
+}
 .services{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true);
     text-align: center;
