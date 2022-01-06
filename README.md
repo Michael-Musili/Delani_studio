@@ -5,7 +5,7 @@ The project was written by Michael Musili
 
 ## Setup/Installation Requirements
 * To view the website click
-*  http://github.com/Michael-Musili/Independent-project-2.git
+*  michael-musili.github.io/delani_studio/
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
