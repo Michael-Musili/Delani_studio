@@ -5,7 +5,7 @@ The project was written by Michael Musili
 
 ## Setup/Installation Requirements
 * To view the website click
-*  michael-musili.github.io/delani_studio/
+*  https://michael-musili.github.io/Delani_studio/
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
