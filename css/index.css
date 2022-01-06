@@ -9,8 +9,12 @@
     text-align: center;
     padding: 40px;
 }
-.initially-showing{
+toggle{
     display: none;
+}
+.hide{
+    display: none;
+    text-align: center;
 }
 .services{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true);
@@ -21,6 +25,7 @@
 .do{
     text-align: center;
     padding: 50px;
+    background-color: whitesmoke;
 }
 .icons{
     display: flex;
@@ -43,7 +48,33 @@
     justify-content: space-evenly;
     padding-left: 70px;
     padding-right: 110px;
+
 }
+.hide1,.hide2 ,.hide3,.hide4 {
+    height: 210px;
+    width: 210px;
+    border: 15px solid red;
+    background-color: transparent;
+    position: absolute;
+    top: 1600px;
+    color: white;
+    font-weight: bold;
+    display: none;
+
+}
+
+.hide5,.hide6,.hide7,.hide8{
+    height: 210px;
+    width: 210px;
+    border: 15px solid red;
+    background-color: transparent;
+    position: absolute;
+    top: 1820px;
+    color: white;
+    font-weight: bold;
+
+}
+
 #ender{
     text-align: center;
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true);
