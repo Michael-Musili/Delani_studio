@@ -1,21 +1,21 @@
 $(document).ready(function(){
   $(".icon-p").click(function(){
     $(".toggle1").toggle();
-  })
-})
+  });
+});
 $(document).ready(function(){
   $(".icon-s").click(function(){
     $(".toggle2").toggle();
-  })
+  });
 
-})
+});
 
 $(document).ready(function(){
   $(".icon-m").click(function(){
     $(".toggle3").toggle();
-  })
+  });
 
-})
+});
 //hoover
 
 $(document).ready(function(){
