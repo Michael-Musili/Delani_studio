@@ -50,7 +50,10 @@
     padding-right: 110px;
 
 }
-.hide1,.hide2 ,.hide3,.hide4 {
+p1{
+    
+}
+/* .hide1,.hide2 ,.hide3,.hide4 {
 
     height: 180px;
     width: 190px;
@@ -59,8 +62,8 @@
     border: 10px solid white;
     background-color: transparent;
     position: absolute;
-    top: 1640px;
-    color: wheat;
+    /* top: 1640px; */
+    /* color: wheat;
     font-weight: bold;
     display: none;
     font-weight: bold;
@@ -68,9 +71,9 @@
     margin-bottom: 30px;
     margin-left: 15px;
     
-}
+} */ */
 
-.hide5,.hide6,.hide7,.hide8{
+/* .hide5,.hide6,.hide7,.hide8{
     height: 180px;
     width: 190px;
     border: 10px solid white;
@@ -84,7 +87,7 @@
     margin-left: 15px;
     
 
-}
+} */
 
 #ender{
     text-align: center;
